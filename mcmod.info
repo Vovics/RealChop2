@@ -1,0 +1,14 @@
+[
+{
+"modid": "realchop2",
+"name": "RealChop2",
+"description": "Add a realistic falling trees",
+"version": "1.0",
+"credits": "Created by Vovics",
+"mcversion": "",
+"url": "http://www.myhit.ru/",
+"updateUrl": "",
+"authors": [ "Vovics" ],
+"dependencies": ["mod_MinecraftForge"]
+}
+]
